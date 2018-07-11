@@ -1,6 +1,6 @@
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "0I7-Eo-098"; */
-"0I7-Eo-098.title" = "창";
+"0I7-Eo-098.title" = "윈도우";
 
 /* Class = "NSMenuItem"; title = "Services"; ObjectID = "0Tk-5P-8i2"; */
 "0Tk-5P-8i2.title" = "서비스";
@@ -63,7 +63,7 @@
 "f7N-ob-xwH.title" = "보기";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
-"gy4-dO-Qdu.title" = "수정";
+"gy4-dO-Qdu.title" = "편집";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "jtN-lL-fdx"; */
 "jtN-lL-fdx.title" = "최근 사용 열기";
